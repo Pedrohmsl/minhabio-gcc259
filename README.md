@@ -1,5 +1,5 @@
 ## Pedro Henrique Marques Siqueira
-![Foto de Perfil](images\profile_small.jpeg)
+![Foto de Perfil](images/profile_small.jpeg)
 
 *Brasileiro, solteiro, 23 anos* 
 
