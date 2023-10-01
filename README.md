@@ -1,5 +1,7 @@
 ## Pedro Henrique Marques Siqueira
-*Brasileiro, solteiro, 23 anos*
+![Foto de Perfil](images\profile_small.jpeg)
+
+*Brasileiro, solteiro, 23 anos* 
 
 *Resido em Lavras, MG*
 
